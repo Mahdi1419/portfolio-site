@@ -1,0 +1,135 @@
+{
+    "description": "DO NOT DELETE THIS FILE. This file is used to keep track of which files have been synced in the most recent deployment. If you delete this file a resync will need to be done (which can take a while) - read more: https://github.com/SamKirkland/FTP-Deploy-Action",
+    "version": "1.0.0",
+    "generatedTime": 1793530518876,
+    "data": [
+        {
+            "type": "file",
+            "name": "CNAME",
+            "size": 19,
+            "hash": "3aa4a1526da9f653b227c30058e30b7c2c49b3edb5d67d5f1c1c6ff4676dbfe6"
+        },
+        {
+            "type": "folder",
+            "name": "assets"
+        },
+        {
+            "type": "folder",
+            "name": "images"
+        },
+        {
+            "type": "file",
+            "name": "index.html",
+            "size": 2299,
+            "hash": "43b5d5c08a124df885330d1f2234674f4361f67ac3181105b62c5ee0b8d082ab"
+        },
+        {
+            "type": "file",
+            "name": "real.html",
+            "size": 2013,
+            "hash": "2e8b88752716cce66ca76a8ca53022675f75e74973263948b9b9fe6583a4e40d"
+        },
+        {
+            "type": "file",
+            "name": "assets/main-C4WAymxq.js",
+            "size": 283920,
+            "hash": "3f876e06d06a1e4229c128bacac3213d9ac29325e8f756a5833d19861c1ced44"
+        },
+        {
+            "type": "file",
+            "name": "assets/main-Wn1e2o88.css",
+            "size": 57499,
+            "hash": "b93f97c1e699076429af5e65fb9bc58c9bb0f5cfeabc544ea7a5761424efe07b"
+        },
+        {
+            "type": "file",
+            "name": "assets/real-C8v0QU4A.js",
+            "size": 27924,
+            "hash": "aac6ffdd5001245af86fac1fabc0b58df1ceae85213bacb394ae8299f32fe196"
+        },
+        {
+            "type": "file",
+            "name": "assets/real-DRZvfgBJ.css",
+            "size": 27536,
+            "hash": "16539282c52f7b128145f6114bb3606a009d530684ad681d2f6e6fcb7273a809"
+        },
+        {
+            "type": "file",
+            "name": "assets/siteData-DUsX_3Js.js",
+            "size": 290788,
+            "hash": "02cfd820f029e2a46370f872e594895ebdb06b7cb061856a4eb0a1d70e519a38"
+        },
+        {
+            "type": "file",
+            "name": "assets/vazirmatn-arabic-wght-normal-Cafbb7Zc.woff2",
+            "size": 46308,
+            "hash": "84a382e46c30fb4f73d0e3800c16d0af15888e2731e57fa5f93e2c29a2c6a957"
+        },
+        {
+            "type": "file",
+            "name": "assets/vazirmatn-latin-ext-wght-normal-tDTa1Fj6.woff2",
+            "size": 21860,
+            "hash": "21529facfd236f6be527e4353623bdb889c96a7ebb7db1e148e28406be0ea004"
+        },
+        {
+            "type": "file",
+            "name": "assets/vazirmatn-latin-wght-normal-BFexNX-K.woff2",
+            "size": 34524,
+            "hash": "d29c041cd4294af893cf3c01dfab6d47202c667ab55d702f68782599918c651d"
+        },
+        {
+            "type": "file",
+            "name": "images/cafeneti-fullscreen.png",
+            "size": 2213534,
+            "hash": "7375233ed3b08f8b7859e2f8e83a6ad2b80a8fda0eed16c9921695899ab49317"
+        },
+        {
+            "type": "file",
+            "name": "images/cafeneti-logo.svg",
+            "size": 34166,
+            "hash": "6e802a82d2595b20ddefe49a87882e57c1f038ce30c49b1a070e365e2d3592c3"
+        },
+        {
+            "type": "file",
+            "name": "images/etekanesh-fullscreen.png",
+            "size": 1397358,
+            "hash": "865cdf51cc9ed92462a68210a84e72d9b43d0dfd95233663aaf6a8fd8026ee92"
+        },
+        {
+            "type": "file",
+            "name": "images/etekanesh-logo.svg",
+            "size": 1385,
+            "hash": "2cf3a99be3a58d6a2fb1ba34c1bea4c6a70e09bce68efeb5f79e8985108f6e80"
+        },
+        {
+            "type": "file",
+            "name": "images/farzanehfarsad-fullscreen.png",
+            "size": 1835523,
+            "hash": "18e960bcd7dc6aa5e5bea7c7200af70b6320ec5e01e3424ff30b5013e6d96e2e"
+        },
+        {
+            "type": "file",
+            "name": "images/lumorasmart-fullscreen.png",
+            "size": 3904460,
+            "hash": "74e3d9d1e54bd2dec11c806401e210ead5cdb3b8debc3be36a71b894653e280c"
+        },
+        {
+            "type": "file",
+            "name": "images/riddlehouse-fullscreen.png",
+            "size": 3990355,
+            "hash": "609ac277751094a65e3e23e421df1c180d47fb1a89b490188ef698221b191838"
+        },
+        {
+            "type": "file",
+            "name": "images/riddlehouse-logo.png",
+            "size": 56365,
+            "hash": "93d55aac2a11251f83df03b2e6124bf24501a9f406e9d20e0c12f3e6c6937b52"
+        },
+        {
+            "type": "file",
+            "name": "images/upwork-logo.png",
+            "size": 21124,
+            "hash": "3504c456cf08d35deb716e54fea2cd3922557584ae61171d67684bc406ac7cd3"
+        }
+    ]
+}
